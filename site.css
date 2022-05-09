@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+/* Lab 11 External Style Sheet - Jack Widmer */
+h1 {
+    text-align: center;
+    background-color: grey;
+}
+
+h2 {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+button {
+    text-align: center;
+    width: 25%;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: lightgrey;
+    margin-left: 25vw;
+    float: left;
+}
